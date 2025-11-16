@@ -15,7 +15,7 @@ Types of Contributions
 Report Bugs
 ~~~~~~~~~~~
 
-Report bugs at https://github.com/ageitgey/face_recognition/issues.
+Report bugs at https://github.com/premiumzucchini
 
 If you are reporting a bug, please include:
 
